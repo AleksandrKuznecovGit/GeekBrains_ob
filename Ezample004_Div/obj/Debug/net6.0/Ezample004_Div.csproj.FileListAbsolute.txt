@@ -1,0 +1,15 @@
+D:\Rabota\G_B\Examples\Ezample004_Div\bin\Debug\net6.0\Ezample004_Div.exe
+D:\Rabota\G_B\Examples\Ezample004_Div\bin\Debug\net6.0\Ezample004_Div.deps.json
+D:\Rabota\G_B\Examples\Ezample004_Div\bin\Debug\net6.0\Ezample004_Div.runtimeconfig.json
+D:\Rabota\G_B\Examples\Ezample004_Div\bin\Debug\net6.0\Ezample004_Div.dll
+D:\Rabota\G_B\Examples\Ezample004_Div\bin\Debug\net6.0\Ezample004_Div.pdb
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.csproj.AssemblyReference.cache
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.AssemblyInfoInputs.cache
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.AssemblyInfo.cs
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.csproj.CoreCompileInputs.cache
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.dll
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\refint\Ezample004_Div.dll
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.pdb
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\Ezample004_Div.genruntimeconfig.cache
+D:\Rabota\G_B\Examples\Ezample004_Div\obj\Debug\net6.0\ref\Ezample004_Div.dll

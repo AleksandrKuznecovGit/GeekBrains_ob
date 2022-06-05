@@ -1,0 +1,15 @@
+D:\Rabota\G_B\Examples\Example002_HelloConsole\bin\Debug\net6.0\Example002_HelloConsole.exe
+D:\Rabota\G_B\Examples\Example002_HelloConsole\bin\Debug\net6.0\Example002_HelloConsole.deps.json
+D:\Rabota\G_B\Examples\Example002_HelloConsole\bin\Debug\net6.0\Example002_HelloConsole.runtimeconfig.json
+D:\Rabota\G_B\Examples\Example002_HelloConsole\bin\Debug\net6.0\Example002_HelloConsole.dll
+D:\Rabota\G_B\Examples\Example002_HelloConsole\bin\Debug\net6.0\Example002_HelloConsole.pdb
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.csproj.AssemblyReference.cache
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.AssemblyInfoInputs.cache
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.AssemblyInfo.cs
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.dll
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\refint\Example002_HelloConsole.dll
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.pdb
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\Example002_HelloConsole.genruntimeconfig.cache
+D:\Rabota\G_B\Examples\Example002_HelloConsole\obj\Debug\net6.0\ref\Example002_HelloConsole.dll

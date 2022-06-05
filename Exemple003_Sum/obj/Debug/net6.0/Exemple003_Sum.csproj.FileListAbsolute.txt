@@ -1,0 +1,15 @@
+D:\Rabota\G_B\Examples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.exe
+D:\Rabota\G_B\Examples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.deps.json
+D:\Rabota\G_B\Examples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.runtimeconfig.json
+D:\Rabota\G_B\Examples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.dll
+D:\Rabota\G_B\Examples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.pdb
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.AssemblyReference.cache
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfoInputs.cache
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfo.cs
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.CoreCompileInputs.cache
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.dll
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\refint\Exemple003_Sum.dll
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.pdb
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.genruntimeconfig.cache
+D:\Rabota\G_B\Examples\Exemple003_Sum\obj\Debug\net6.0\ref\Exemple003_Sum.dll

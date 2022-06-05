@@ -1,0 +1,15 @@
+D:\Rabota\G_B\Examples\bin\Debug\net6.0\Examples.exe
+D:\Rabota\G_B\Examples\bin\Debug\net6.0\Examples.deps.json
+D:\Rabota\G_B\Examples\bin\Debug\net6.0\Examples.runtimeconfig.json
+D:\Rabota\G_B\Examples\bin\Debug\net6.0\Examples.dll
+D:\Rabota\G_B\Examples\bin\Debug\net6.0\Examples.pdb
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.csproj.AssemblyReference.cache
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.AssemblyInfoInputs.cache
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.AssemblyInfo.cs
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.csproj.CoreCompileInputs.cache
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.dll
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\refint\Examples.dll
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.pdb
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\Examples.genruntimeconfig.cache
+D:\Rabota\G_B\Examples\obj\Debug\net6.0\ref\Examples.dll

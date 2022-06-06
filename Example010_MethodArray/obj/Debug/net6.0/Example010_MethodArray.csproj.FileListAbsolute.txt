@@ -1,0 +1,15 @@
+D:\Rabota\G_B\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.exe
+D:\Rabota\G_B\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.deps.json
+D:\Rabota\G_B\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.runtimeconfig.json
+D:\Rabota\G_B\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.dll
+D:\Rabota\G_B\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.pdb
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.AssemblyReference.cache
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfoInputs.cache
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfo.cs
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.CoreCompileInputs.cache
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.dll
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\refint\Example010_MethodArray.dll
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.pdb
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.genruntimeconfig.cache
+D:\Rabota\G_B\Examples\Example010_MethodArray\obj\Debug\net6.0\ref\Example010_MethodArray.dll
